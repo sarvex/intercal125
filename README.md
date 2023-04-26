@@ -1,6 +1,6 @@
-HolyC
-======
-Trying to complete 125 projects from in HolyC
+# InterCal
+
+Trying to complete 125 projects from in InterCal
 
 Numbers
 ---------
